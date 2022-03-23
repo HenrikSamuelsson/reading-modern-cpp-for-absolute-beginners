@@ -7,5 +7,9 @@
     "doxdocgen.generic.returnTemplate": "/return {type} ",
     "doxdocgen.file.versionTag": "",
     "doxdocgen.generic.authorTag": "/author {author} ({email})",
-    "doxdocgen.generic.useGitUserName": true
+    "doxdocgen.generic.useGitUserName": true,
+    "cSpell.words": [
+        "Dmitrović",
+        "Slobodan"
+    ]
 }
