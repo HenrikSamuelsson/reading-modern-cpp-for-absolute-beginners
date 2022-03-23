@@ -19,7 +19,7 @@
  */
 int main()
 {
-    char myChar;
-    int myInt;
-    double myDouble;
+    char c;
+    int i;
+    double d;
 }
