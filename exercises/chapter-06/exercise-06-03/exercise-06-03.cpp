@@ -20,5 +20,5 @@ int main()
 {
     char c = 'a';
     int i = 42;
-    double d = 0.5; 
+    double d = 0.5;
 }
