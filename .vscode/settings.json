@@ -1,15 +1,15 @@
 {
     "doxdocgen.cpp.tparamTemplate": "/tparam {param} ",
-    "doxdocgen.file.fileTemplate": "/file {name}",
-    "doxdocgen.generic.briefTemplate": "/brief {text}",
     "doxdocgen.generic.dateTemplate": "",
     "doxdocgen.generic.paramTemplate": "/param {param} ",
     "doxdocgen.generic.returnTemplate": "/return {type} ",
     "doxdocgen.file.versionTag": "",
-    "doxdocgen.generic.authorTag": "/author {author} ({email})",
     "doxdocgen.generic.useGitUserName": true,
     "cSpell.words": [
         "Dmitrović",
         "Slobodan"
-    ]
+    ],
+    "doxdocgen.file.fileTemplate": "@file      {name}",
+    "doxdocgen.generic.authorTag": "@author    {author} ({email})",
+    "doxdocgen.generic.briefTemplate": "@brief     TODO add brief description here"
 }
