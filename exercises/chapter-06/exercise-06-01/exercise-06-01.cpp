@@ -1,7 +1,8 @@
 /**
- * @file        exercise-06-01.cpp
- * @author      Henrik Samuelsson (henrik.samuelsson@gmail.com)
- * @brief       Exercise 6.1 Hello World and Comments
+ * @copyright Copyright 2022 Henrik Samuelsson
+ * @file      exercise-06-01.cpp
+ * @author    Henrik Samuelsson (henrik.samuelsson@gmail.com)
+ * @brief     Exercise 6.1 Hello World and Comments
  *
  * Solution for exercise 6.1 from the book Modern C++ for Absolute Beginners.
  *
