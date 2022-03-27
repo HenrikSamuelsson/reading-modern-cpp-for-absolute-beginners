@@ -6,7 +6,7 @@
  *
  * Solution for exercise 6.3 from the book Modern C++ for Absolute Beginners.
  * 
- * Program that defines three variables inside the main function.
+ * A program that defines three variables inside the main function.
  *
  * Key takeaways from this exercise:
  *  - A definition is a declaration and a initialization of a variable
