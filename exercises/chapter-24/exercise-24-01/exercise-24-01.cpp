@@ -16,12 +16,18 @@
  *  - An instance is made using the classname followed by a chosen instance name
  */
 
-class MyClass
+/**
+ * @brief Empty dummy class, used to practice how to define class.
+ */
+class EmptyClass
 {
 
 };
 
+/**
+ * @brief Makes an instance of EmptyClass called e.
+ */
 int main()
 {
-    MyClass o;
+    EmptyClass e;
 }
