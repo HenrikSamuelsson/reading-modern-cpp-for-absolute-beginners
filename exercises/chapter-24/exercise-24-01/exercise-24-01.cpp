@@ -17,7 +17,7 @@
  */
 
 /**
- * @brief Empty dummy class, used to practice how to define class.
+ * @brief Empty dummy class, introduced just learn how to define a class.
  */
 class EmptyClass
 {
