@@ -1,6 +1,6 @@
 /**
  * @copyright Copyright 2022 Henrik Samuelsson
- * @file      exercise-09-01.cpp
+ * @file      exercise-24-01.cpp
  * @author    Henrik Samuelsson (henrik.samuelsson@gmail.com)
  * @brief     Exercise 24.1 Class Instance
  *
