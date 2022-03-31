@@ -13,7 +13,10 @@ This is a fast paced book introducing foundations in C++ programming. There is n
 
 ## Exercise Solutions
 
-[6.1](./exercises/chapter-06/exercise-06-01/exercise-06-01.cpp),
-[6.2](./exercises/chapter-06/exercise-06-02/exercise-06-02.cpp),
-[6.3](./exercises/chapter-06/exercise-06-03/exercise-06-03.cpp),
-[6.4](./exercises/chapter-06/exercise-06-04/exercise-06-04.cpp)
+[6.1 Hello World and Comments](./exercises/chapter-06/exercise-06-01/exercise-06-01.cpp)  
+[6.2 Declaration](./exercises/chapter-06/exercise-06-02/exercise-06-02.cpp)  
+[6.3 Definition](./exercises/chapter-06/exercise-06-03/exercise-06-03.cpp)  
+[6.4 Initialization](./exercises/chapter-06/exercise-06-04/exercise-06-04.cpp)  
+
+[15.1 Array Definition](./exercises/chapter-15/exercise-15-01/exercise-15-01.cpp)  
+[15.2 Pointer to an Object](./exercises/chapter-15/exercise-15-02/exercise-15-02.cpp)  
