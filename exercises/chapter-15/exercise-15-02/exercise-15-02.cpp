@@ -14,7 +14,7 @@
  *  - A pointer is declared using the type and a *
  *  - Pointer assignment to the address of an a variable is done by using a &
  *  - Use a * to access what a pointer points at, this is called dereferencing
- *  - Note how the * symbol is used in two different ways related to pointers 
+ *  - Note how the * symbol is used in two different ways related to pointers
  */
 
 #include <iostream>
