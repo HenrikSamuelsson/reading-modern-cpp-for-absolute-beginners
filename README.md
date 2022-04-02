@@ -18,5 +18,11 @@ This is a fast paced book introducing foundations in C++ programming. There is n
 [6.3 Definition](./exercises/chapter-06/exercise-06-03/exercise-06-03.cpp)  
 [6.4 Initialization](./exercises/chapter-06/exercise-06-04/exercise-06-04.cpp)  
 
+[9.1 Standard Input](./exercises/chapter-09/exercise-09-01/exercise-09-01.cpp)  
+
 [15.1 Array Definition](./exercises/chapter-15/exercise-15-01/exercise-15-01.cpp)  
 [15.2 Pointer to an Object](./exercises/chapter-15/exercise-15-02/exercise-15-02.cpp)  
+[15.3 Reference Type](./exercises/chapter-15/exercise-15-02/exercise-15-02.cpp)  
+
+[24.1 Class Instance](./exercises/chapter-24/exercise-24-01/exercise-24-01.cpp)  
+[24.2 Class with Data members](./exercises/chapter-24/exercise-24-02/exercise-24-02.cpp)  
