@@ -21,7 +21,6 @@
  */
 class EmptyClass
 {
-
 };
 
 /**
