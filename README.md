@@ -20,6 +20,7 @@ This is a fast paced book introducing foundations in C++ programming. There is n
 
 [9.1 Standard Input](./exercises/chapter-09/exercise-09-01/exercise-09-01.cpp)  
 [9.2 Two Inputs](./exercises/chapter-09/exercise-09-02/exercise-09-02.cpp)  
+[9.3 Multiple Inputs](./exercises/chapter-09/exercise-09-03/exercise-09-03.cpp)  
 
 [15.1 Array Definition](./exercises/chapter-15/exercise-15-01/exercise-15-01.cpp)  
 [15.2 Pointer to an Object](./exercises/chapter-15/exercise-15-02/exercise-15-02.cpp)  
