@@ -4,6 +4,8 @@
  * @author    Henrik Samuelsson (henrik.samuelsson@gmail.com)
  * @brief     Exercise 9.2 Two Inputs
  * 
+ * Solution for exercise 9.2 from the book Modern C++ for Absolute Beginners.
+ * 
  * A program that accepts two integer numbers from the standard input and then
  * prints them.
  * 
