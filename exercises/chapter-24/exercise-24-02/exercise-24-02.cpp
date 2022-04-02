@@ -6,8 +6,9 @@
  *
  * Solution for exercise 24.2 from the book Modern C++ for Absolute Beginners.
  *
- * A program that defines a class called with three data members of and makes
- * an instance of that class inside the main function.
+ * A program that defines a class called ClassWithData with three data members 
+ * of different types and creates an instance of the class inside the main 
+ * function.
  *
  * Key takeaways from this exercise:
  *  - A class can include class specific data
@@ -26,7 +27,7 @@ class ClassWithData
 };
 
 /**
- * @brief Makes an instance ClassWithData called cwd.
+ * @brief Creates an instance of type ClassWithData called cwd.
  */
 int main()
 {
