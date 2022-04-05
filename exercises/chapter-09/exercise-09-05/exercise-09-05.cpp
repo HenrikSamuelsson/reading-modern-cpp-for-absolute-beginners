@@ -3,7 +3,7 @@
  * @author    Henrik Samuelsson (henrik.samuelsson@gmail.com)
  * @brief     9.5 Post-Increment and Compound Assignment
  *
- * Solution for exercise 9.4 from the book Modern C++ for Absolute Beginners.
+ * Solution for exercise 9.5 from the book Modern C++ for Absolute Beginners.
  *
  * A program that defines an integer variable with a value, postincrements the
  * value, and add to the value using the compound assignment operator. The value
