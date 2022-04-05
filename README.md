@@ -22,6 +22,8 @@ This is a fast paced book introducing foundations in C++ programming. There is n
 [9.2 Two Inputs](./exercises/chapter-09/exercise-09-02/exercise-09-02.cpp)  
 [9.3 Multiple Inputs](./exercises/chapter-09/exercise-09-03/exercise-09-03.cpp)  
 [9.4 Inputs and Arithmetic Operations](./exercises/chapter-09/exercise-09-04/exercise-09-04.cpp)  
+[9.5 Post-Increment and Compound Assignment](./exercises/chapter-09/exercise-09-05/exercise-09-05.cpp)  
+[9.6 Integral and Floating-point Division](./exercises/chapter-09/exercise-09-06/exercise-09-06.cpp)  
 
 [15.1 Array Definition](./exercises/chapter-15/exercise-15-01/exercise-15-01.cpp)  
 [15.2 Pointer to an Object](./exercises/chapter-15/exercise-15-02/exercise-15-02.cpp)  
