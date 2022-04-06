@@ -28,6 +28,7 @@ This is a fast paced book introducing foundations in C++ programming. There is n
 [15.1 Array Definition](./exercises/chapter-15/exercise-15-01/exercise-15-01.cpp)  
 [15.2 Pointer to an Object](./exercises/chapter-15/exercise-15-02/exercise-15-02.cpp)  
 [15.3 Reference Type](./exercises/chapter-15/exercise-15-02/exercise-15-02.cpp)  
+[15.4 Strings](./exercises/chapter-15/exercise-15-04/exercise-15-04.cpp)  
 
 [24.1 Class Instance](./exercises/chapter-24/exercise-24-01/exercise-24-01.cpp)  
 [24.2 Class with Data members](./exercises/chapter-24/exercise-24-02/exercise-24-02.cpp)  
