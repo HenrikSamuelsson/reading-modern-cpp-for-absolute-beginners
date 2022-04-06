@@ -9,7 +9,9 @@
  * A program that defines two strings and then combines this into a new string.
  *
  * Key takeaways from this exercise:
- *
+ * - A string is an object that repersent a sequence of characters i.e. a text
+ * - Include the library file string when working with strings
+ * - Strings can be joined using the + operator
  */
 
 #include <iostream>
