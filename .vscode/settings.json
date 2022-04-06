@@ -11,5 +11,13 @@
     ],
     "doxdocgen.file.fileTemplate": "@file      {name}",
     "doxdocgen.generic.authorTag": "@author    {author} ({email})",
-    "doxdocgen.generic.briefTemplate": "@brief     TODO add brief description here"
+    "doxdocgen.generic.briefTemplate": "@brief     TODO add brief description here",
+    "doxdocgen.generic.authorName": "Henrik Samuelsson",
+    "doxdocgen.generic.order": [
+    "copyright",
+    "file",
+    "author",
+    "brief"
+    ],
+    "doxdocgen.generic.authorEmail": "henrik.samuelsson@gmail.com"
 }
