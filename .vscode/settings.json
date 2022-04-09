@@ -19,5 +19,6 @@
     "author",
     "brief"
     ],
-    "doxdocgen.generic.authorEmail": "henrik.samuelsson@gmail.com"
+    "doxdocgen.generic.authorEmail": "henrik.samuelsson@gmail.com",
+    "sonarlint.disableTelemetry": true
 }
