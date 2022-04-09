@@ -1,3 +1,11 @@
+/**
+ * @copyright Copyright 2022 Henrik Samuelsson
+ * @file      exercise-15-07.cpp
+ * @author    Henrik Samuelsson (henrik.samuelsson@gmail.com)
+ * @brief     Exercise 15.7 Finding a single Character
+ * 
+ * Solution for exercise 15.7 from the book Modern C++ for Absolute Beginners.
+ */
 #include <iostream>
 #include <string>
 
