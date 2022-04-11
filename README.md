@@ -30,6 +30,7 @@ This is a fast paced book introducing foundations in C++ programming. There is n
 [15.3 Reference Type](./exercises/chapter-15/exercise-15-02/exercise-15-02.cpp)  
 [15.4 Strings](./exercises/chapter-15/exercise-15-04/exercise-15-04.cpp)  
 [15.5 Strings from Standard Input](./exercises/chapter-15/exercise-15-05/exercise-15-05.cpp)  
+[15.6 Creating a Substring](./exercises/chapter-15/exercise-15-06/exercise-15-06.cpp)  
 
 [24.1 Class Instance](./exercises/chapter-24/exercise-24-01/exercise-24-01.cpp)  
 [24.2 Class with Data members](./exercises/chapter-24/exercise-24-02/exercise-24-02.cpp)  
