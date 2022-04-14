@@ -9,7 +9,7 @@ void printMessage()
 }
 
 /**
- * @brief     Invokes a function that will print a message.
+ * @brief     Invokes a function that in turn will print a message.
  */
 int main()
 {
