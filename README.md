@@ -13,7 +13,7 @@ This is a fast paced book introducing foundations in C++ programming. There is n
 
 ## Exercise Solutions
 
-[6.1 Hello World and Comments](./exercises/chapter-06/exercise-06-01/exercise-06-01.cpp)  
+[6.1 Hello World and Comments](./exercises/chapter-06/exercise-06-01/source/exercise-06-01.cpp)  
 [6.2 Declaration](./exercises/chapter-06/exercise-06-02/exercise-06-02.cpp)  
 [6.3 Definition](./exercises/chapter-06/exercise-06-03/exercise-06-03.cpp)  
 [6.4 Initialization](./exercises/chapter-06/exercise-06-04/exercise-06-04.cpp)  
@@ -31,6 +31,9 @@ This is a fast paced book introducing foundations in C++ programming. There is n
 [15.4 Strings](./exercises/chapter-15/exercise-15-04/exercise-15-04.cpp)  
 [15.5 Strings from Standard Input](./exercises/chapter-15/exercise-15-05/exercise-15-05.cpp)  
 [15.6 Creating a Substring](./exercises/chapter-15/exercise-15-06/exercise-15-06.cpp)  
+
+[18.1 A Simple if-statement](./exercises/chapter-18/exercise-18-01/exercise-18-01.cpp)  
+[18.2 Logical Operators](./exercises/chapter-18/exercise-18-02/exercise-18-02.cpp)  
 
 [24.1 Class Instance](./exercises/chapter-24/exercise-24-01/exercise-24-01.cpp)  
 [24.2 Class with Data members](./exercises/chapter-24/exercise-24-02/exercise-24-02.cpp)  
