@@ -41,4 +41,4 @@ There are exercises in the book an below are my versions of solutions for these 
 
 [24.1 Class Instance](./exercises/chapter-24/exercise-24-01/exercise-24-01.cpp)  
 [24.2 Class with Data members](./exercises/chapter-24/exercise-24-02/exercise-24-02.cpp)  
-[24.3](./exercises/chapter-24/exercise-24-03/exercise-24-02.cpp)  
+[24.3](./exercises/chapter-24/exercise-24-03/exercise-24-03.cpp)  
