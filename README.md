@@ -40,7 +40,7 @@ There are exercises in the book an below are my versions of solutions for these 
 [18.2 Logical Operators](./exercises/chapter-18/exercise-18-02/exercise-18-02.cpp)  
 
 [24.1 Class Instance](./exercises/chapter-24/exercise-24-01/exercise-24-01.cpp)  
-[24.2 Class with Data members](./exercises/chapter-24/exercise-24-02/exercise-24-02.cpp)  
-[24.3](./exercises/chapter-24/exercise-24-03/exercise-24-03.cpp)  
+[24.2 Class with Data Members](./exercises/chapter-24/exercise-24-02/exercise-24-02.cpp)  
+[24.3 Class with Member Function](./exercises/chapter-24/exercise-24-03/exercise-24-03.cpp)  
 
-[32.1](./exercises/chapter-32/exercise-32-01/)
+[32.1 Header and Source Files](./exercises/chapter-32/exercise-32-01/)
