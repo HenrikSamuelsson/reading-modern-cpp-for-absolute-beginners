@@ -44,3 +44,4 @@ There are exercises in the book an below are my versions of solutions for these 
 [24.3 Class with Member Function](./exercises/chapter-24/exercise-24-03/exercise-24-03.cpp)  
 
 [32.1 Header and Source Files](./exercises/chapter-32/exercise-32-01/)
+[32.2](./exercises/chapter-32/exercise-32-02/)  
