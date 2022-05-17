@@ -9,7 +9,7 @@ Subtitle: A Friendly Introduction to C++ Programming Language and C++11 to C++20
 Author: Slobodan Dmitrović  
 ISBN-13: 978-1484260463  
 
-This is a fast paced book for beginners that start with the foundations in C++ programming. There is strictyl no need to know any C++ prior to reading this book. However so would I recommend som prior knowledge in programming because general programming concepts such as loops, variables and if statement is good to know before taking on this book.
+This is a fast paced book for beginners that start with the foundations in C++ programming. There is strictly no need to know any C++ prior to reading this book. However so would I recommend som prior knowledge in programming because general programming concepts such as loops, variables and if statement is good to know before taking on this book.
 
 The author Slobodan Dmitrović is a software consultant, and C and C++ trainer. He is besides this book also the author of a book on C.
 
@@ -43,4 +43,5 @@ There are exercises in the book an below are my versions of solutions for these 
 [24.2 Class with Data Members](./exercises/chapter-24/exercise-24-02/exercise-24-02.cpp)  
 [24.3 Class with Member Function](./exercises/chapter-24/exercise-24-03/exercise-24-03.cpp)  
 
-[32.1 Header and Source Files](./exercises/chapter-32/exercise-32-01/)
+[32.1 Header and Source Files](./exercises/chapter-32/exercise-32-01/)  
+[32.2](./exercises/chapter-32/exercise-32-02/)  
